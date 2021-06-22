@@ -1,2 +1,3 @@
-# nlw_together-gameplay
-Trilha React Native {NLW} - Rocketseat
+Trilha React Native {NLW} - Rocketseat |
+
+*GamePlay -> Next Level Week Together.
